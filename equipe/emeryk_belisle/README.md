@@ -128,20 +128,20 @@
 ### Lundi
 
 - Création du menu principal:
-  Ajout automatique d’un joueur à l’écran lorsqu’un joueur rejoint
-  Retrait du joueur de l’écran lorsqu’un joueur quitte
-  Texte du joueur (ex. Joueur 1) en vert lorsqu’il est prêt ou texte en rouge lorsqu’il n’est pas prêt
-  Lorsque tous les joueurs sont prêts: Démarrage d’un countdown + Transition vers la scène Histoire
-  Si un joueur rejoint ou quitte pendant le countdown: Tous les joueurs sont automatiquement remis en non prêt
+  - Ajout automatique d’un joueur à l’écran lorsqu’un joueur rejoint
+  - Retrait du joueur de l’écran lorsqu’un joueur quitte
+  - Texte du joueur (ex. Joueur 1) en vert lorsqu’il est prêt ou texte en rouge lorsqu’il n’est pas prêt
+  - Lorsque tous les joueurs sont prêts: Démarrage d’un countdown + Transition vers la scène Histoire
+  - Si un joueur rejoint ou quitte pendant le countdown: Tous les joueurs sont automatiquement remis en non prêt
 
 - Création de la scène Histoire:
-  Texte narratif qui change dynamiquement + Transition automatique vers le niveau 1 dépendant du nombre de joueurs (Level1P2, Level1P5, etc.)
+  - Texte narratif qui change dynamiquement + Transition automatique vers le niveau 1 dépendant du nombre de joueurs (Level1P2, Level1P5, etc.)
 
 - Gestion des niveaux:
-  Si un joueur meurt: Le niveau recommence
-  Si le ou les joueurs gagnent: Passage au niveau suivant selon le nombre de joueurs actifs
-  Si un joueur rejoint ou quitte pendant un niveau: Affichage d’un message + Rechargement automatique du niveau correspondant au nouveau nombre de joueurs (Level1P4 → Level1P3 ou Level1P5)
-  Si tous les joueurs quittent pendant un niveau: Affichage du même message + Retour automatique au menu principal
+  - Si un joueur meurt: Le niveau recommence
+  - Si le ou les joueurs gagnent: Passage au niveau suivant selon le nombre de joueurs actifs
+  - Si un joueur rejoint ou quitte pendant un niveau: Affichage d’un message + Rechargement automatique du niveau correspondant au nouveau nombre de joueurs (Level1P4 → Level1P3 ou Level1P5)
+  - Si tous les joueurs quittent pendant un niveau: Affichage du même message + Retour automatique au menu principal
 
 ### Mardi
 
