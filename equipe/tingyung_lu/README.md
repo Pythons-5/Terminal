@@ -92,12 +92,16 @@
 
 
 ### Jeudi
+- Terminé l'effet sonore de l'arrivée à l'objectif d'un joueur  
 
 ### Vendredi
+- Ajout de la section esthétique et intention sonore
+- Fait des variations de l'effet sonore de victoire
 
 ## Semaine 3
 
 ### Lundi
+- Commencé son l'effet sonore de défaite
 
 ### Mardi
 
