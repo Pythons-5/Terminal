@@ -76,6 +76,7 @@ Remise de la planification
 Conception de l’image (design visuel) du cadenas représentant les zones bloquées à l’aide d’Adobe Illustrator.
 
 ### Mercredi
+Conception de l’image (design visuel) des boutons directionnels de la manette,de chaque joueur (6 joueurs au total),des murs et des différentes portes du jeu  à l’aide d’Adobe Illustrator.
 
 ### Jeudi
 
