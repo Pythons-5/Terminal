@@ -104,6 +104,9 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
 - effets sonores musicaux
 - sons courts
 - rétro
+- synthétiseur
+- simple
+- répétitif
 
 ### Intention Sonore
 - indiquer la progression des joueurs
