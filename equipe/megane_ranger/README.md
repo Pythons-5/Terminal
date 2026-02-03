@@ -21,10 +21,10 @@
 
 ## Semaine 2
 
-- Travailler sur l’interface du jeu : changer les couleurs pour la nouvelle palette et modifier l’interface du jeu.
-- Création des ennemis.
-- Création du design des visuels des clés.
-- Création du design des projectiles.
+- Travailler sur l’interface du jeu : changer les couleurs pour la nouvelle palette et modifier l’interface du jeu sur illustrator.
+- Création d'image des ennemis sur illustrator.
+- Création des images visuels des clés sur illustrator.
+- Création des images des projectiles sur illustrator.
 
 ## Semaine 3
 
@@ -80,13 +80,21 @@
 
 ### Mardi
 
-- Les modifications de l'interface du jeu est terminé.
+- Les modifications de l'interface du jeu sur illustrator est terminé.
 
 ### Mercredi
 
+- Création d'image des ennemis sur illustrator terminé.
+- Création des images visuels des clés sur illustrator terminé.
+- Création des images des projectiles sur illustrator terminé.
+
 ### Jeudi
 
+- Congé
+
 ### Vendredi
+
+- Congé
 
 ## Semaine 3
 
@@ -94,7 +102,11 @@
 
 ### Lundi
 
+- Congé
+
 ### Mardi
+
+- Journal de bord mis à jour.
 
 ### Mercredi
 
