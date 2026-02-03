@@ -98,6 +98,18 @@ Le terme « social » désigne ce qui concerne la vie en société, c’est-à-d
 ### Couleur des joueurs:
 ![](palette2.png)
 
+### Esthétique Sonore
+- mélodique
+- ludique
+- effets sonores musicaux
+- sons courts
+- rétro
+
+### Intention Sonore
+- indiquer la progression des joueurs
+- donner du feedback aux joueurs
+- améliorer la conscience spatiale des joueurs parmi le chaos
+
 [SFX Menu](sfx_menu.mp3)
 [SFX Interface](sfx_interface.mp3)
 [SFX Interface 2](sfx_interface_2.mp3)

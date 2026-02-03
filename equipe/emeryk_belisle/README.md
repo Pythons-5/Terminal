@@ -96,17 +96,52 @@
 
 ### Lundi
 
+- Création du Github Terminal-Unity
+- Création du Jeu initial Unity
+
 ### Mardi
+
+- Tentatives de faire fonctionner le router avec nos téléphones pour pouvoir accès a notre jeu, sans avoir une connection internet
+- J'ai trouvé une façon de le faire relativement simple, mais qui fonctionne pas toujours, à trouver comment le rendre fiable
 
 ### Mercredi
 
+- Création des premiers dossiers pour bien mettre nos éléments dans le futur
+- Création du script Opérateur (joueur) avec tout les données publiques qui sert à l'utilisation et le futur controle avec les manettes téléphones
+- Dans le même script, les trails sont créer pendant que ceux-ci bouge et deviennent des obstacles
+- Création du préfab de l'opérateur pour qu'on puisse modifier le positionnement des opérateur à notre guise et modifier ses valeurs
+- Commencement du script Game Manager, qui sert pour savoir quand les joueurs finissent le niveau
+
 ### Jeudi
 
+- Finalisation du script Game manager qui permet de faire perdre ou gagner les joueurs dépendant du déroulement du jeu
+- Création du script de Zone de fin, qui sert à savoir quand les joueurs finissent le niveau
+- Création du préfab de la zone de fin, qui nous permet publiquement de changer sa position, grosseur et si il commence verouillé, si il va se vérouiller, et combien de personne qui a besoin avant de changer ses valeurs
+- Création de 3 murs, mur fix, mur qui bouge, et mur qui tourne, le mur qui bouge, permet de choisir sa direction et vitesse, pareil pour lui qui tourne. On peux changer la grosseur et emplacement à notre guise
+
 ### Vendredi
+
+- Rien de rajouté
 
 ## Semaine 3
 
 ### Lundi
+
+- Création du menu principal:
+  - Ajout automatique d’un joueur à l’écran lorsqu’un joueur rejoint
+  - Retrait du joueur de l’écran lorsqu’un joueur quitte
+  - Texte du joueur (ex. Joueur 1) en vert lorsqu’il est prêt ou texte en rouge lorsqu’il n’est pas prêt
+  - Lorsque tous les joueurs sont prêts: Démarrage d’un countdown + Transition vers la scène Histoire
+  - Si un joueur rejoint ou quitte pendant le countdown: Tous les joueurs sont automatiquement remis en non prêt
+
+- Création de la scène Histoire:
+  - Texte narratif qui change dynamiquement + Transition automatique vers le niveau 1 dépendant du nombre de joueurs (Level1P2, Level1P5, etc.)
+
+- Gestion des niveaux:
+  - Si un joueur meurt: Le niveau recommence
+  - Si le ou les joueurs gagnent: Passage au niveau suivant selon le nombre de joueurs actifs
+  - Si un joueur rejoint ou quitte pendant un niveau: Affichage d’un message + Rechargement automatique du niveau correspondant au nouveau nombre de joueurs (Level1P4 → Level1P3 ou Level1P5)
+  - Si tous les joueurs quittent pendant un niveau: Affichage du même message + Retour automatique au menu principal
 
 ### Mardi
 
