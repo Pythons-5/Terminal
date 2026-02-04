@@ -149,6 +149,24 @@ Donc, j'ai réussi à:
 
 ### Mardi
 
+- Débogage de Caddy à l’école afin d’ajouter le HTTPS via un reverse proxy, malgré des contraintes de permissions réseau (port 80).
+
+- Résultat finale de Caddy fait pour qui marche en reverse proxy HTTPS (port 8443) vers :
+  - le serveur HTTP Unity (8080)
+  - le serveur WebSocket Unity (8750)
+
+- Validation du bon fonctionnement fait :
+  - accès au contrôleur en `https://` sur PC et téléphones
+  - connexions WebSocket correctement détectées côté Unity
+  - communication stable entre les téléphones et le jeu en LAN-only, sans WAN
+
+- Intégration complète des contrôleurs mobiles avec la logique du jeu :
+  - gestion dynamique du nombre de joueurs connectés
+  - système de prêt / dé-prêt automatique selon les connexions
+  - lancement du jeu uniquement lorsque tous les joueurs sont prêts
+  - annulation du prêt si un joueur rejoint ou quitte avant le début
+  - adaptation automatique du niveau / difficulté selon le nombre de joueurs (ex. carte plus difficile à 2 joueurs, version différente à 6 joueurs)
+
 ### Mercredi
 
 ### Jeudi
