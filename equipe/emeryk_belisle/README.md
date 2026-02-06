@@ -145,11 +145,34 @@
 
 ### Mardi
 
+- Mettre ensemble les scripts du jeu avec les scripts de Élie pour qu'on puisse contrôler le jeu avec nos téléphones
+- Tests complet du système pour trouver des problèmes
+- Nous avons eux des problèmes de connections, donc on à du utiliser caddy avec un faux certificat pour être sur https et faire les connections
+
 ### Mercredi
+
+- Création du niveau 1 avec les 6 difficultés
+- Rajout des sons présentement créés et placé au bon endroits dans les scripts
+- Rajout des éléments visuels créés et placé dans les préfabs et dans les éléments du UI
+- Placement de l'ordinateur dans la salle de matrice et connection ethernet vers le grand studio
 
 ### Jeudi
 
+- Placement du podium temporaire avec le router et les éléments artistiques pour la journée des portes ouvertes
+- Débugage et correction des textes avant et pendant la visite
+- On a compris asser rapidement que la connection au jeu est présentement trop longue et complexe pour les personnes qui visitent
+
 ### Vendredi
+
+- Changement complet de la connection vers le jeu avec NGrok, qui sert de passage entre un réseau extérieur vers un réseau local, se qui permet aux personnes avec leur LTE/5G de pouvoir jouer au jeu seulement en scannant le code qr et sans se connecter à notre routeur
+- Vérification si les personnes avec LTE et ceux qui doivent quand même se connecter avec le routeur, effectivement, les 2 peuvent intéragit et jouer en même temps
+- Correction du bug trouvé jeudi que quand une personne quitte/rejoint durant le moment de fin du jeu, que cela ne change pas le niveau comme il faut.
+- Rajout de 5 effets sur la caméra (Bloom, vhs, glitch, flash, win effect), qui rend le jeu plus dans le style qu'on désire (vieux jeu rétro sur un écran VHS)
+- Rajout des transitions fade in et fade out entre les scènes et quand les personnes quittes, joins, gagnent, ou perdent.
+- Supression de caddy et seulement mis sur le port 8080 au lieu de redirect 8443 vers 8080
+- Acheter ngrok pour 1 mois (éventuellement 2) pour permettre d'augmenter la limite de connections mensuel et enlever la page entre la connection et le jeu
+- Changer le ui du téléphone pour la couleur du joueur que la personne joue et aussi mettre sa forme sur l'écran pour qu'il puisse voir qui il est durant la partie
+- Garder la flèche de direction durant le jeu au lieu de l'enlever après le countdown initial, se qui permet de mieux savoir comment tourner son personnage.
 
 ## Semaine 4
 
