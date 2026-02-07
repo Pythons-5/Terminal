@@ -169,9 +169,18 @@ Donc, j'ai réussi à:
 
 ### Mercredi
 
+- Installation et setup des speakers et du projecteur dans le grand studio pour préparer la porte ouverte de jeudi
+- Déplacement de l'ordi principale qui héberge le serveur Unity à la salle de matrice et configuration avec Caddy et le routeur
+
 ### Jeudi
 
+- Branchement de tous les câbles XLR des speakers jusqu'à la salle de matrice pour configurer l'ordi avec le serveur
+- Accueil des visiteurs de la porte ouverte et explication du programme et de notre projet en démo
+- Ajout de CSS au contrôleur pour afficher les formes respectives selon le joueur connecté (pour qu'ils sachent qui ils sont)
+
 ### Vendredi
+
+- Recherche d'inspiration pour le design des opérateurs, de l'ennemi et de l'environnement de la scène
 
 ## Semaine 4
 
