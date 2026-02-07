@@ -104,12 +104,23 @@
 - Commencé son l'effet sonore de défaite
 
 ### Mardi
+- Terminé l'effet sonore de défaite
+- Crée l'effet sonore du décompte 
+- Crée l'effet sonore du recommencement de l'état du jeu
+- Créer le son d'ambiance des niveaux 1 – 5 (facile)
 
 ### Mercredi
+- ajustement des sons dans le jeu
+- assisté à l'installation 
 
 ### Jeudi
+- installé la caméra dans le studio
+- participé à la porte ouverte
+- identifié des problèmes techniques et d'accessibilité
 
 ### Vendredi
+- cherché des VST pertinents
+- commencé à retravaillé les sons déjà crée
 
 ## Semaine 4
 
