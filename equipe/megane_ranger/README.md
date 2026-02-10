@@ -107,16 +107,25 @@
 ### Mardi
 
 - Journal de bord mis à jour.
+- Finalisation du menu principal sur illustrator.
 
 ### Mercredi
 
+- Installation dans le grand Studio.
+
 ### Jeudi
 
+- Commencer la direction artistique du logo
+
 ### Vendredi
+
+- Congé
 
 ## Semaine 4
 
 ### Lundi
+
+- Congé
 
 ### Mardi
 
