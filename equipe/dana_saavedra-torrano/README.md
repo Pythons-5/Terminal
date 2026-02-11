@@ -108,8 +108,10 @@ Correction des images (design visuel) par rapport aux commentaires reçus par le
 ### Lundi
 
 ### Mardi
+Correction des images (design visuel) par rapport aux commentaires reçus par le professeur. Reconception de l'image des joueurs, de 2 powers ups ( passer à travers les murs et arrêter le temps ), les ennemis et la clé.
 
 ### Mercredi
+Conception de l'image du favicon et changement de couleur sur le site web du rouge au vert.
 
 ### Jeudi
 
