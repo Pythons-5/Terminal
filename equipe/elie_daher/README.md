@@ -91,24 +91,24 @@ Aucun avancement
 
 ### Mardi
 
-Tentative de configuration du routeur et du système WebSocket pour permettre aux téléphones de se connecter au contrôleur Unity. Plusieurs tests réseau effectués mais toujours pas fonctionnel,problème non résolu pour l’instant.
+- Tentative de configuration du routeur et du système WebSocket pour permettre aux téléphones de se connecter au contrôleur Unity. Plusieurs tests réseau effectués mais toujours pas fonctionnel,problème non résolu pour l’instant.
 
-J’ai aussi amélioré un peu le contrôleur mobile : ajustements du responsive, ajout du mode paysage forcé, et simplification de l’interface (2 flèches au lieu de 4).
+- J’ai aussi amélioré un peu le contrôleur mobile : ajustements du responsive, ajout du mode paysage forcé, et simplification de l’interface (2 flèches au lieu de 4).
 
 ### Mercredi
 
-Journée complète de troubleshooting réseau pour réussir un mode LAN-only stable avec le mini-routeur (téléphones sans internet, accès uniquement au contrôleur).
+- J'ai retiré les étapes inutiles et rendre la procédure la plus simple possible. J’ai laissé le serveur et le routeur en fonctionnement 24/7 à l’école pour valider la stabilité (vendredi : vérifier si tout tient ou si de nouveaux bugs apparaissent).
 
-J’ai identifié un comportement clé : le routeur n’autorise pas correctement le trafic Wi-Fi vers le PC tant qu’il n’a pas “vu” le WAN lors d’un boot/reboot.
+- Journée complète de troubleshooting réseau pour réussir un mode LAN-only stable avec le mini-routeur (téléphones sans internet, accès uniquement au contrôleur).
+
+- J’ai identifié un comportement clé : le routeur n’autorise pas correctement le trafic Wi-Fi vers le PC tant qu’il n’a pas “vu” le WAN lors d’un boot/reboot.
 
 Solution trouvée et testée :
 
 - Brancher LAN + WAN, puis faire un reboot dans l’interface du routeur. Ensuite, débrancher le WAN : les téléphones peuvent accéder au serveur Unity/contrôleur.
 - Variante : démarrer avec LAN seulement, faire un reboot, puis brancher le WAN 1 à 2 secondes et le retirer. Ça “débloque” l’accès LAN-only.
 
-Objectif de la journée : retirer les étapes inutiles et rendre la procédure la plus simple possible. J’ai laissé le serveur et le routeur en fonctionnement 24/7 à l’école pour valider la stabilité (vendredi : vérifier si tout tient ou si de nouveaux bugs apparaissent).
-
-Côté contrôleur : amélioration UI vers une version démo minimale avec 2 gros boutons (gauche/droite). Intégration fonctionnelle du flow :
+- Côté contrôleur : amélioration UI vers une version démo minimale avec 2 gros boutons (gauche/droite). Intégration fonctionnelle du flow :
 
 - bouton Pret puis Unity détecte l’état
 - décompte avant le début
@@ -116,13 +116,13 @@ Côté contrôleur : amélioration UI vers une version démo minimale avec 2 gro
 
 ### Jeudi
 
-Aucun avancement.
+- Aucun avancement.
 
 ### Vendredi
 
-Corrections CSS pour éliminer les problèmes de scroll et de centrage sur différents navigateurs (Chrome, Safari).
+- Corrections CSS pour éliminer les problèmes de scroll et de centrage sur différents navigateurs (Chrome, Safari).
 
-Stabilisation du layout final : boutons gauche/droite en plein écran (50 % / 50 %).
+- Stabilisation du layout final : boutons gauche/droite en plein écran (50 % / 50 %).
 
 ## Semaine 3
 
@@ -132,7 +132,7 @@ Stabilisation du layout final : boutons gauche/droite en plein écran (50 % / 50
 
 - Tests effectués à la maison afin de vérifier que le système fonctionne toujours dans les mêmes conditions, résultats concluants.
 
-Mise en place du HTTPS avec "Caddy" pour sécuriser l’accès au contrôleur mobile tout en conservant le mode LAN-only.
+- Mise en place du HTTPS avec "Caddy" pour sécuriser l’accès au contrôleur mobile tout en conservant le mode LAN-only.
 
 Configuration de Caddy en "reverse proxy" vers :
 
@@ -140,9 +140,9 @@ Configuration de Caddy en "reverse proxy" vers :
 - le serveur WebSocket Unity (port 8750)
 - Accès HTTPS configuré via Caddy sur le port 8443
 
-Adaptation du serveur WebSocket Unity pour accepter correctement les connexions derrière Caddy
+- Adaptation du serveur WebSocket Unity pour accepter correctement les connexions derrière Caddy
 
-Donc, j'ai réussi à:
+- Donc, j'ai réussi à:
 
 - Avoir accès au contrôleur en `https://` sur PC et téléphones pour que les applications comme Brave peuvent être utiliser.
 - La connexion WebSocket a été détectée par Unity avec le HTTPS.
@@ -186,7 +186,13 @@ Donc, j'ai réussi à:
 
 ### Lundi
 
+- Aucun avancement.
+
 ### Mardi
+
+- Installation, alignement et configuration du deuxième projecteur.
+- On a fait en sorte que le "blend" des deux projecteurs est bon avec les corners.
+- Ajustement contraste et luminosité des projecteurs.
 
 ### Mercredi
 
