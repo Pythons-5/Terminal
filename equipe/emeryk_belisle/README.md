@@ -177,12 +177,28 @@
 ## Semaine 4
 
 ### Lundi
+- Rien de rajouté
 
 ### Mardi
+- Création du background (site web) qui sera éventuellement projeté sur le projecteur background
+- Création du OBS pour projeter le jeu et le background en même temps
+- Rajout de l'effet de 0 et 1 qui mote sur le téléphone des joueurs durant les menus
+- Changement complet du css sur les téléphones pour rendre les éléments similaires aux jeux UNITY
+- Correction des bogues reliés aux téléphones (pas changer de joueur quand 1 quitte par exemple)
 
 ### Mercredi
+- Installation et placement du projecteur du jeu pour un projecteur plus haut (pour qu'on puisse pas voir nos tête sur la projection)
+- Modification de la projection OBS pour mettre le background visible sur l'écran pour les effets des 1 et 0
+- Création des niveaux 2 avec 6 difficultés
+- Changer les paramètres des 2 projecteurs pour mieux diffuser le background et mieux voir le jeu
 
 ### Jeudi
+- Création des portes et des clés (qui ouvre les portes)
+- Création des zones de ralentissement et d'accélération
+- Création des ennemis qui tirs et de son projectile
+- Création des power ups de freeze, invisibilité et suppression de ligne
+- Changement des sprites pour la majorité des éléments pour ceux-ci permanent
+- Changement des images pour les personnages sur les téléphones
 
 ### Vendredi
 
