@@ -196,6 +196,11 @@ Configuration de Caddy en "reverse proxy" vers :
 
 ### Mercredi
 
+- Réinstallation du projecteur avec un support plus petit pour le suspendre au plafond du grand studio (pour réduire les ombres des gens qui passent derrière les joueurs).
+- Alignement physique du projecteur avant de faire les keystone.
+- Vérification que les deux haut-parleurs jouent du son et que la gestion des câbles est complète au plafond du grand studio.
+- Configuration des lumières pour fonctionner avec HyperHDR pour réagir aux flashs de lumière de l'écran du jeu via l'univers DMX 3
+
 ### Jeudi
 
 ### Vendredi
