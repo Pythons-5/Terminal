@@ -199,6 +199,7 @@
 - Création des power ups de freeze, invisibilité et suppression de ligne
 - Changement des sprites pour la majorité des éléments pour ceux-ci permanent
 - Changement des images pour les personnages sur les téléphones
+- Rajout de tous les sons du jeu (sauf le déplacement des joueurs qui n'ai pas fini)
 
 ### Vendredi
 
