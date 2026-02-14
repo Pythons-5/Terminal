@@ -116,12 +116,11 @@ Solution trouvée et testée :
 
 ### Jeudi
 
-- Aucun avancement.
+- Aucun avancement
 
 ### Vendredi
 
 - Corrections CSS pour éliminer les problèmes de scroll et de centrage sur différents navigateurs (Chrome, Safari).
-
 - Stabilisation du layout final : boutons gauche/droite en plein écran (50 % / 50 %).
 
 ## Semaine 3
@@ -129,22 +128,15 @@ Solution trouvée et testée :
 ### Lundi
 
 - Tests de reprise du système en LAN avec la configuration précédente afin de vérifier que la méthode routeur + serveur Unity fonctionnait toujours.
-
 - Tests effectués à la maison afin de vérifier que le système fonctionne toujours dans les mêmes conditions, résultats concluants.
 
-- Mise en place du HTTPS avec "Caddy" pour sécuriser l’accès au contrôleur mobile tout en conservant le mode LAN-only.
-
-Configuration de Caddy en "reverse proxy" vers :
-
+- Configuration de Caddy en "reverse proxy" vers:
 - le serveur HTTP Unity (port 8080)
 - le serveur WebSocket Unity (port 8750)
 - Accès HTTPS configuré via Caddy sur le port 8443
 
 - Adaptation du serveur WebSocket Unity pour accepter correctement les connexions derrière Caddy
-
-- Donc, j'ai réussi à:
-
-- Avoir accès au contrôleur en `https://` sur PC et téléphones pour que les applications comme Brave peuvent être utiliser.
+- Réussi à avoir accès au contrôleur en `https://` sur PC et téléphones pour que les applications comme Brave peuvent être utiliser.
 - La connexion WebSocket a été détectée par Unity avec le HTTPS.
 
 ### Mardi
@@ -186,7 +178,7 @@ Configuration de Caddy en "reverse proxy" vers :
 
 ### Lundi
 
-- Aucun avancement.
+- Aucun avancement
 
 ### Mardi
 
@@ -203,7 +195,17 @@ Configuration de Caddy en "reverse proxy" vers :
 
 ### Jeudi
 
+- Création des sons:
+  - Prêt
+  - Non prêt
+  - Connexion
+  - Déconnexion
+  - 3 sons différents pour 3 powerups différents
+  - 2 variations de sons de tir
+
 ### Vendredi
+
+- Aucun avancement
 
 ## Semaine 5
 
