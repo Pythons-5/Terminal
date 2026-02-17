@@ -125,8 +125,8 @@ Conception de l'image du favicon et changement de couleur sur le site web du rou
 
 ### Jeudi
 Conception de l'image (design visuel) du power up qui efface le tracé du joueur, de la zone de ralentissement, de la zone d'accélération et de la zone victoire.
-![](documentation_zones.png)
-![](documentation_power_up_trace.png)
+![](documentation_zones_power_up_trace.png)
+
 
 
 ### Vendredi
