@@ -11,15 +11,6 @@
     - Documentation multimédia des tâches accomplies
  -->
 
- <!-- 
-
-
-
-
-
-
-  -->
-
 # Planification
 
 ## Semaine 1
@@ -35,7 +26,7 @@
 
 ## Semaine 3
 - Créer l'effet sonore de défaite
-- Créer l'effet sonore du décompte 
+- Créer l'effet sonore du décompte
 - Créer l'effet sonore du recommencement de l'état du jeu
 - Créer le son d'ambiance des niveaux 1 – 5 (facile)
 
@@ -83,20 +74,25 @@
 
 ### Mardi
 - Crée l'effet sonore de connection 
+[Connection](./media/connect_v1.wav)
 - Crée l'effet sonore de déconnection
+[Déconnection](./media/disconnect_v1.wav)
 - Commencé l'effet sonore de la victoire
 
 ### Mercredi
 - Finalisé l'effet sonore de la victoire
 - Commencé l'effet sonore de l'arrivée à l'objectif d'un joueur 
+[Victoire](./media/victory_v1.wav)
 
 
 ### Jeudi
 - Terminé l'effet sonore de l'arrivée à l'objectif d'un joueur  
+[Arrivée](./media/finish_v1.wav)
 
 ### Vendredi
 - Ajout de la section esthétique et intention sonore
 - Fait des variations de l'effet sonore de victoire
+![](./media/capture_section_sonore.png)
 
 ## Semaine 3
 
@@ -105,38 +101,61 @@
 
 ### Mardi
 - Terminé l'effet sonore de défaite
+[Défaite](./media/defeat_v1.wav)
 - Crée l'effet sonore du décompte 
+[Décompte](./media/countdown_beep.wav)
 - Crée l'effet sonore du recommencement de l'état du jeu
+[Recommencement](./media/restart_v1.wav)
 - Créer le son d'ambiance des niveaux 1 – 5 (facile)
+[Ambiance](./media/ambiance_jeu_1.wav)
 
 ### Mercredi
-- ajustement des sons dans le jeu
-- assisté à l'installation 
+- Ajustement des sons dans le jeu
+- Assisté à l'installation 
 
 ### Jeudi
-- installé la caméra dans le studio
-- participé à la porte ouverte
-- identifié des problèmes techniques et d'accessibilité
+- Installé la caméra dans le studio
+- Participé à la porte ouverte
+- Identifié des problèmes techniques et d'accessibilité
+![](./media/photo_porte_ouverte.jpg)
 
 ### Vendredi
-- cherché des VST pertinents
-- commencé à retravaillé les sons déjà crée
+- Cherché des VST pertinents
+- Commencé à retravaillé les sons déjà crée
 
 ## Semaine 4
 
 ### Lundi
+- Pas d'avancement, reporté le travail à mardi
 
 ### Mardi
+- Organisation de la carte SD
+- Coupure des videos prises sur la caméra
 
 ### Mercredi
+- Refait l'effet sonore de défaite
+[Defeat](./media/defeat.wav)
+- Refait l'effet sonore de victoire
+[Victoire](./media/victory.wav)
+- Crée l'effet sonore de clés
+[Clé](./media/key.wav)
 
 ### Jeudi
+- Validation du design sonore
+- Refait l'effet sonore de l'arrivée
+[Finish](./media/finish.wav)
+- Crée l'effet sonore de collision de projectiles
+[Collision projectile](./media/projectile_hit_mur.wav)
+- Crée des variations de l'effet sonore de défaite
+[Variation Défaite](./media/defeat2.wav)
 
 ### Vendredi
+- Pas d'avancement, reporté le travail à mardi
 
 ## Semaine 5
 
 ### Lundi
+- Pas d'avancement, reporté le travail à mardi
 
 ### Mardi
 
