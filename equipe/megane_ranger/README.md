@@ -129,17 +129,32 @@
 
 ### Mardi
 
+- Journal de bord mis à jour.
+- Création du design visuel du logo "Terminal".
+- Modification du site web de notre équipe pour ajouter le logo.
+
 ### Mercredi
+
+- Modification et correction du power-up "chronomètre".
+- Brainstorm pour la création visuel de l'histoire.
 
 ### Jeudi
 
+- Commencer la création visuel de l'histoire. À finaliser à la semaine 5.
+
 ### Vendredi
+
+- Congé
 
 ## Semaine 5
 
 ### Lundi
 
+- Congé
+
 ### Mardi
+
+- Journal de bord mis à jour. 
 
 ### Mercredi
 
