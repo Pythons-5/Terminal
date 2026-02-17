@@ -247,10 +247,15 @@
 - Rien de rajouté
 
 ### Mardi
+
 - Rajout des images dans la documentation du journal
 ![](imagesJournal.png)
+
 - Prise vidéo pour la bande annonces (Vidéo de la connection des téléphones, écran du jeu pendant qu'ont jouent et nos réactions quand on perd ou gagnent)
+
 ![](videoTournage.png)
+- Rajout du dernier son qui manquait pour le déplacement des joueurs
+![](son3.png)
 
 ### Mercredi
 
