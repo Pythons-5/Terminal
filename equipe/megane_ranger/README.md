@@ -81,12 +81,16 @@
 ### Mardi
 
 - Les modifications de l'interface du jeu sur illustrator est terminé.
+- Les modifications de couleurs, typo et backgound de l'interface menu est complété.
+![](../megane_ranger/documentation_interface_menu_01.png)
+![](../megane_ranger/documentation_interface_jeu_01.png)
 
 ### Mercredi
 
 - Création d'image des ennemis sur illustrator terminé.
 - Création des images visuels des clés sur illustrator terminé.
 - Création des images des projectiles sur illustrator terminé.
+![](../megane_ranger/documentation_ennemi_clef_01.png)
 
 ### Jeudi
 
@@ -107,7 +111,9 @@
 ### Mardi
 
 - Journal de bord mis à jour.
+- Trouver une nouvelle typographie avec des accents, car la typographique que nous avons présentement ne correspond pas à notre esthétique et n'offre pas les accents. 
 - Finalisation du menu principal sur illustrator.
+
 
 ### Mercredi
 
@@ -116,6 +122,8 @@
 ### Jeudi
 
 - Commencer la direction artistique du logo
+- Modification des ennemis et de la clef.
+![](../megane_ranger/documentation_ennemi_clef_02.png)
 
 ### Vendredi
 
@@ -130,13 +138,21 @@
 ### Mardi
 
 - Journal de bord mis à jour.
+- Modification apporté au menu principal.
 - Création du design visuel du logo "Terminal".
 - Modification du site web de notre équipe pour ajouter le logo.
+- Tournage de la documentation.
+
+![](../megane_ranger/documentation_interface_menu_03.png)
+![](../megane_ranger/documentation_logo_01.png)
+![](../megane_ranger/documentation_journal_de_bord_01.png)
 
 ### Mercredi
 
 - Modification et correction du power-up "chronomètre".
-- Brainstorm pour la création visuel de l'histoire.
+- Modifications des ennemis et de la clef.
+- Brainstorm pour la création visuel du background de l'histoire.
+![](../megane_ranger/documentation_ennemi_clef_03.png)
 
 ### Jeudi
 
@@ -155,6 +171,8 @@
 ### Mardi
 
 - Journal de bord mis à jour. 
+- Ajout des médias pour la documentation du projet dans le journal de bord.
+- Finalisation de la création visuel du background de l'histoire.
 
 ### Mercredi
 

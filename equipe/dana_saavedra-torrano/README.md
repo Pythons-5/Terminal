@@ -73,12 +73,14 @@ Finalisation de la planification
 
 ### Mardi
 
-Remise de la planification
+Remise de la planification   
 Conception de l’image (design visuel) du cadenas représentant les zones bloquées à l’aide d’Adobe Illustrator.
 
 ### Mercredi
 
-Conception de l’image (design visuel) des boutons directionnels de la manette,de chaque joueur (6 joueurs au total),des murs et des différentes portes du jeu à l’aide d’Adobe Illustrator.
+Conception de l’image (design visuel) des boutons directionnels de la manette,de chaque joueur (6 joueurs au total),des murs et de la porte du jeu à l’aide d’Adobe Illustrator.
+
+![](documentation_design_version_1.png)
 
 ### Jeudi
 
@@ -92,14 +94,18 @@ Conception de l’image (design visuel) des boutons directionnels de la manette,
 
 Conception de l’image (design visuel) des powers ups à l’aide d’Adobe Illustrator.
 
+![](documentation_power_up.png)
+
 ### Mercredi
 
 Installation de la maquette dans le grand studio
 
 ### Jeudi
 
-Remise maquette 1
+Remise maquette 1   
 Correction des images (design visuel) par rapport aux commentaires reçus par le professeur. Rajout d'un aspect de profondeur sur tous les visuels.
+
+![](documentation_design_version_2.png)
 
 ### Vendredi
 
@@ -110,11 +116,18 @@ Correction des images (design visuel) par rapport aux commentaires reçus par le
 ### Mardi
 Correction des images (design visuel) par rapport aux commentaires reçus par le professeur. Reconception de l'image des joueurs, de 2 powers ups ( passer à travers les murs et arrêter le temps ), les ennemis et la clé.
 
+![](documentation_design_version_3.png)
+
 ### Mercredi
 Conception de l'image du favicon et changement de couleur sur le site web du rouge au vert.
+![](documentation_favicon.png)
+
 
 ### Jeudi
 Conception de l'image (design visuel) du power up qui efface le tracé du joueur, de la zone de ralentissement, de la zone d'accélération et de la zone victoire.
+![](documentation_zones_power_up_trace.png)
+
+
 
 ### Vendredi
 
