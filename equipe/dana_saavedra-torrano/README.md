@@ -114,6 +114,7 @@ Correction des images (design visuel) par rapport aux commentaires reçus par le
 Conception de l'image du favicon et changement de couleur sur le site web du rouge au vert.
 
 ### Jeudi
+Conception de l'image (design visuel) du power up qui efface le tracé du joueur, de la zone de ralentissement, de la zone d'accélération et de la zone victoire.
 
 ### Vendredi
 
