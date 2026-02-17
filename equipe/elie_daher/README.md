@@ -95,11 +95,17 @@ Aucun avancement
 
 - J’ai aussi amélioré un peu le contrôleur mobile : ajustements du responsive, ajout du mode paysage forcé, et simplification de l’interface (2 flèches au lieu de 4).
 
+![](codePaysage.png)
+
 ### Mercredi
 
 - J'ai retiré les étapes inutiles et rendre la procédure la plus simple possible. J’ai laissé le serveur et le routeur en fonctionnement 24/7 à l’école pour valider la stabilité (vendredi : vérifier si tout tient ou si de nouveaux bugs apparaissent).
 
+![](routeurInterfaceB.png)
+
 - Journée complète de troubleshooting réseau pour réussir un mode LAN-only stable avec le mini-routeur (téléphones sans internet, accès uniquement au contrôleur).
+
+![](routeurInterfaceA.png)
 
 - J’ai identifié un comportement clé : le routeur n’autorise pas correctement le trafic Wi-Fi vers le PC tant qu’il n’a pas “vu” le WAN lors d’un boot/reboot.
 
@@ -107,6 +113,8 @@ Solution trouvée et testée :
 
 - Brancher LAN + WAN, puis faire un reboot dans l’interface du routeur. Ensuite, débrancher le WAN : les téléphones peuvent accéder au serveur Unity/contrôleur.
 - Variante : démarrer avec LAN seulement, faire un reboot, puis brancher le WAN 1 à 2 secondes et le retirer. Ça “débloque” l’accès LAN-only.
+
+![](routeurInterfaceC.png)
 
 - Côté contrôleur : amélioration UI vers une version démo minimale avec 2 gros boutons (gauche/droite). Intégration fonctionnelle du flow :
 
@@ -116,18 +124,25 @@ Solution trouvée et testée :
 
 ### Jeudi
 
-- Aucun avancement
+- Setup websocket complet pour faire la connexion des joueurs sur leur téléphone. (Connection, prêt, détection avec Unity serveur)
+
+![](githubConnection.png)
 
 ### Vendredi
 
 - Corrections CSS pour éliminer les problèmes de scroll et de centrage sur différents navigateurs (Chrome, Safari).
 - Stabilisation du layout final : boutons gauche/droite en plein écran (50 % / 50 %).
 
+![](controlleur50-50.jpg)
+
 ## Semaine 3
 
 ### Lundi
 
 - Tests de reprise du système en LAN avec la configuration précédente afin de vérifier que la méthode routeur + serveur Unity fonctionnait toujours.
+
+![](routeur.jpg)
+
 - Tests effectués à la maison afin de vérifier que le système fonctionne toujours dans les mêmes conditions, résultats concluants.
 
 - Configuration de Caddy en "reverse proxy" vers:
@@ -159,49 +174,73 @@ Solution trouvée et testée :
   - annulation du prêt si un joueur rejoint ou quitte avant le début
   - adaptation automatique du niveau / difficulté selon le nombre de joueurs (ex. carte plus difficile à 2 joueurs, version différente à 6 joueurs)
 
+  ![](caddy.png)
+  ![](caddyScript.png)
+  ![](caddyCMD.png)
+
 ### Mercredi
 
 - Installation et setup des speakers et du projecteur dans le grand studio pour préparer la porte ouverte de jeudi
+  ![](speakers.jpg)
 - Déplacement de l'ordi principale qui héberge le serveur Unity à la salle de matrice et configuration avec Caddy et le routeur
+  ![](salleMatrice.jpg)
 
 ### Jeudi
 
 - Branchement de tous les câbles XLR des speakers jusqu'à la salle de matrice pour configurer l'ordi avec le serveur
+  ![](branchementXLR.jpg)
+
 - Accueil des visiteurs de la porte ouverte et explication du programme et de notre projet en démo
 - Ajout de CSS au contrôleur pour afficher les formes respectives selon le joueur connecté (pour qu'ils sachent qui ils sont)
+  ![](telephoneManette.png)
 
 ### Vendredi
 
 - Recherche d'inspiration pour le design des opérateurs, de l'ennemi et de l'environnement de la scène
+  ![](inspirationDesign.jpg)
 
 ## Semaine 4
 
 ### Lundi
 
-- Aucun avancement
+- Amélioration CSS du controlleur
+
+![](telephoneConnection.png)
 
 ### Mardi
 
 - Installation, alignement et configuration du deuxième projecteur.
+  ![](projecteurInstallation.jpg)
 - On a fait en sorte que le "blend" des deux projecteurs est bon avec les corners.
 - Ajustement contraste et luminosité des projecteurs.
 
 ### Mercredi
 
 - Réinstallation du projecteur avec un support plus petit pour le suspendre au plafond du grand studio (pour réduire les ombres des gens qui passent derrière les joueurs).
+  ![](projecteurReinstallation.jpg)
 - Alignement physique du projecteur avant de faire les keystone.
 - Vérification que les deux haut-parleurs jouent du son et que la gestion des câbles est complète au plafond du grand studio.
 - Configuration des lumières pour fonctionner avec HyperHDR pour réagir aux flashs de lumière de l'écran du jeu via l'univers DMX 3
+  ![](hyperHDR.png)
 
 ### Jeudi
 
 - Création des sons:
-  - Prêt
-  - Non prêt
-  - Connexion
-  - Déconnexion
-  - 3 sons différents pour 3 powerups différents
-  - 2 variations de sons de tir
+  - **PRÊT:**
+    [SFX Ready](ready.wav)
+  - **NON PRÊT:**
+    [SFX Unready](unready.wav)
+  - **CONNEXION:**
+    [SFX Connect](connect.wav)
+  - **DÉCONNEXION:**
+    [SFX Disconnect](disconnect.wav)
+  - **3 SONS DIFFÉRENTS POUR 3 POWERUPS DIFFÉRENTS:**
+    [SFX PowerupA](powerupA.wav)
+    [SFX PowerupB](powerupB.wav)
+    [SFX PowerupC](powerupC.wav)
+  - **2 VARIATIONS DE SONS DE TIR:**
+    [SFX ShootA](shootA.wav)
+    [SFX ShootB](shootB.wav)
 
 ### Vendredi
 
