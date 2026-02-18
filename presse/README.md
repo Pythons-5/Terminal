@@ -22,21 +22,21 @@ Gratuit
 
 ## Description
 
-**TERMINAL** est une installation interactive pouvant accueillir jusqu'à 6 joueurs. Chaque joueur contrôle un opérateur via la manette sur son téléphone pour restaurer un ancien réseau informatique piraté par un notorious pirate informatique. Lorsque les joueurs se déplacent, une ligne suit leur trajectoire et devient un obstacle pour les autres opérateurs. L'objectif est que tous les joueurs atteignent la fin des niveaux sans être éliminés par les obstacles laissés par le pirate ou les traces des autres. En cas d'élimination, toute l'équipe doit recommencer le niveau depuis le début. Au fur et à mesure de la progression, les niveaux deviennent de plus en plus complexes, introduisant des boutons qui ouvrent des passages, des obstacles mobiles et bien d'autres défis nécessitant communication et coordination.
+**TERMINAL** est une installation interactive pouvant accueillir jusqu'à 6 joueurs. Chaque joueur contrôle un opérateur via la manette sur son téléphone pour restaurer un ancien réseau informatique piraté par un pirate informatique. Lorsque les joueurs se déplacent, une ligne suit leur trajectoire et devient un obstacle pour les autres opérateurs. L'objectif est que tous les joueurs atteignent la fin des niveaux sans être éliminés par les obstacles laissés par le pirate ou les traces des autres. En cas d'élimination, toute l'équipe doit recommencer le niveau depuis le début. Au fur et à mesure de la progression, les niveaux deviennent de plus en plus complexes, introduisant des boutons qui ouvrent des passages, des obstacles mobiles et bien d'autres défis nécessitant communication et coordination.
 
 ## Histoire
 
-Un ancien système informatique a été piraté par un fameux pirate informatique, corrompant toutes les données d'un réseau oublié. De un à six opérateurs se connectent à ce terminal compromis dans une mission commune : restaurer les données perdues en traversant les différents secteurs du réseau. Chaque niveau correspond à un secteur du réseau que l'équipe essaie de restaurer en atteignant l'objectif, tout en évitant les pièges laissés par le pirate et les zones dangereuses du système.
+Un ancien système informatique a été piraté par un fameux pirate informatique, corrompant toutes les données d'un réseau oublié. De un à six opérateurs se connectent à ce terminal compromis dans une mission commune: restaurer les données perdues en traversant les différents secteurs du réseau. Chaque niveau correspond à un secteur du réseau que l'équipe essaie de restaurer en atteignant l'objectif, tout en évitant les pièges laissés par le pirate et les zones dangereuses du système.
 
 ## Fonctionnalités
 
-- **Jeu collaboratif jusqu'à 6 joueurs** : Connexion via téléphone qui se transforme en manette pour contrôler les opérateurs.
-- **Mécanique de traçage** : Les traces des opérateurs deviennent des obstacles permanents pour les autres.
-- **Progression dynamique** : Les niveaux deviennent de plus en plus difficiles.
-- **Éléments interactifs** : Boutons d'activation pour déverrouiller des portes, trois power-ups (arrêt du temps, effacement de la trace, traversée des murs) et un ennemi "virus" qui tire sur les opérateurs s'il les voit.
-- **Système d'élimination** : Si un joueur est éliminé, toute l'équipe recommence le niveau.
-- **Interface intuitive** : Manettes colorées sur téléphone affichant la forme et la couleur du joueur.
-- **Ambiance immersive** : Projection grand format couvrant le mur jusqu'à la bordure du sol, lumières réactives au jeu.
+- **Jeu collaboratif jusqu'à 6 joueurs**: Connexion via téléphone qui se transforme en manette pour contrôler les opérateurs.
+- **Mécanique de traçage**: Les traces des opérateurs deviennent des obstacles permanents pour les autres.
+- **Progression dynamique**: Les niveaux deviennent de plus en plus difficiles.
+- **Éléments interactifs**: Boutons d'activation pour déverrouiller des portes, trois power-ups (arrêt du temps, effacement de la trace, traversée des murs) et un ennemi "virus" qui tire sur les opérateurs s'il les voit.
+- **Système d'élimination**: Si un joueur est éliminé, toute l'équipe recommence le niveau.
+- **Interface intuitive**: Manettes colorées sur téléphone affichant la forme et la couleur du joueur.
+- **Ambiance immersive**: Projection grand format couvrant le mur jusqu'à la bordure du sol, lumières réactives au jeu.
 
 ## Bande-annonce
 
@@ -62,16 +62,18 @@ Un ancien système informatique a été piraté par un fameux pirate informatiqu
 
 ## À propos de l'équipe de création
 
-Nous sommes une équipe de finissants en technique d’intégration multimédia qui
+Nous sommes une équipe de finissants en technique d’intégration multimédia qui adorent les jeux vidéo, y compris les jeux rétro auxquels nous jouions quand nous étions plus jeunes.
+
+Nous avons décidé de mélanger le design rétro avec les technologies modernes des téléphones, en rendant l’expérience simple: il suffit de scanner un code QR pour se connecter. Ainsi, un appareil que tout le monde possède devient une manette en quelques secondes.
 
 ## Crédits
 
 - Équipe **TERMINAL**:
-  - Bélisle, Émeryk : Programmeur principal (Jeu Unity)
-  - Lu, Ting Yung : Design sonore
-  - Ranger, Mégane : Design graphique et illustration
-  - Saavedra-Torrano, Dana : Design graphique et illustration
-  - Daher, Elie : Programmeur réseau (Manette web en WebSocket), design sonore et intégrateur technique
+  - Bélisle, Émeryk: Programmeur principal (Jeu Unity)
+  - Lu, Ting Yung: Design sonore
+  - Ranger, Mégane: Design graphique et illustration
+  - Saavedra-Torrano, Dana: Design graphique et illustration
+  - Daher, Elie: Programmeur réseau (Manette web en WebSocket), design sonore et intégrateur technique
 
 - Prof **T.I.M**:
   - Fredericks, Thomas Ouellet
