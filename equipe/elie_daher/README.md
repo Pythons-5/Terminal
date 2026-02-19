@@ -250,11 +250,25 @@ Solution trouvée et testée :
 
 ### Lundi
 
+- Aucun avancement
+
 ### Mardi
+
+- Mise à jour du journal de bord avec intégration de tous les médias et sons associés à chaque journée
 
 ### Mercredi
 
+- Tournage pour la bande-annonce du projet
+- Préparation du dossier de presse
+- Premier commit : mise en ligne des liens vers tous les projets des étudiants sur le site 2026 Réseau Vivant
+- Recherche pour la commande du podium
+- Brainstorm de l'emplacement du podium et les 2 QR Code à mettre
+
 ### Jeudi
+
+- Tournage pour la bande-annonce du projet
+- Débogage et calibration du projecteur (keystone, alignement physique)
+- Réalignement du projecteur pour optimiser la projection
 
 ### Vendredi
 
