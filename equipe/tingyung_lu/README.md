@@ -158,12 +158,22 @@
 - Pas d'avancement, reporté le travail à mardi
 
 ### Mardi
+- Ajouté des images et de l'audio de documentation au journal de bord
+![](./media/capture_journal_de_bord.png)
 
 ### Mercredi
+- Commencement du montage de la bande-annonce
+![](./media/capture_davinci_1.png)
 
 ### Jeudi
+- Tournage au grand studio pour la bande-annonce
+- Avancement du montage de la bande=annonce
+![](./media/capture_davinci_2.png)
 
 ### Vendredi
+- Finition du montage de la bande-annonce
+- Intégration de la bande-annonce dans le dossier de presse
+![](./media/capture_github_bandeannonce.png)
 
 ## Semaine 6
 
