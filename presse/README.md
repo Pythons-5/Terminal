@@ -39,20 +39,7 @@ Un ancien système informatique a été piraté par un fameux pirate informatiqu
 - **Ambiance immersive**: Projection grand format couvrant le mur jusqu'à la bordure du sol, lumières réactives au jeu.
 
 ## Bande-annonce
-
-<!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
--->
-<!--
-[![Description de la vidéo](http://img.youtube.com/vi/ABWCq8j8qys/0.jpg)](http://www.youtube.com/watch?v=ABWCq8j8qys)
--->
-
-<!-- Intégration d’une vidéo : méthode 2 (vidéo locale)
- -->
-<!--
- ![Description de la vidéo](/media/ipsum_020.mp4)
--->
-
-## Images
+[![Bande-annonce](http://img.youtube.com/vi/hST8hjQISow/0.jpg)](http://www.youtube.com/watch?v=hST8hjQISow)
 
 <!-- Autres sections d'un dossier de presse, moins pertinentes pour ce projet
 ## Logo & Icône
@@ -87,6 +74,6 @@ Nous avons décidé de mélanger le design rétro avec les technologies modernes
 
 **Elie** // https://www.linkedin.com/in/eliedaher/ <br>
 **Dana** // https://www.linkedin.com/in/dana-saavedra-torrano/ <br>
-**Ting Yung** // https://www.linkedin.com/in/ting-yung-terry-lu-009722390/ <br>
+**Ting Yung** // https://www.linkedin.com/in/ting-yung-terry-lu/ <br>
 **Émeryk** // https://www.linkedin.com/in/emeryk-belisle/ <br>
 **Mégane** // https://www.linkedin.com/in/meganeranger/ <br>
