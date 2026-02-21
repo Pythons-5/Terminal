@@ -2,7 +2,7 @@
 
 <!-- Bannderole / Bande-annonce -->
 
-![](logo_terminal.png)
+[![Bande-annonce](logo_terminal.png)](http://www.youtube.com/watch?v=hST8hjQISow)
 
 ## Description
 

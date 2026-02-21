@@ -41,6 +41,9 @@ Un ancien système informatique a été piraté par un fameux pirate informatiqu
 ## Bande-annonce
 [![Bande-annonce](http://img.youtube.com/vi/hST8hjQISow/0.jpg)](http://www.youtube.com/watch?v=hST8hjQISow)
 
+## Images
+![Manette](image_presse_manette.jpg)
+![Jeu](image_presse_jeu.jpg)
 <!-- Autres sections d'un dossier de presse, moins pertinentes pour ce projet
 ## Logo & Icône
 ## Prix et reconnaissances
@@ -57,7 +60,7 @@ Nous avons décidé de mélanger le design rétro avec les technologies modernes
 
 - Équipe **TERMINAL**:
   - Bélisle, Émeryk: Programmeur principal (Jeu Unity)
-  - Lu, Ting Yung: Design sonore
+  - Lu, Ting Yung: Design sonore, montage video, cameraman
   - Ranger, Mégane: Design graphique et illustration
   - Saavedra-Torrano, Dana: Design graphique et illustration
   - Daher, Elie: Programmeur réseau (Manette web en WebSocket), design sonore et intégrateur technique
