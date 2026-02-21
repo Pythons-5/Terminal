@@ -60,7 +60,7 @@ Nous avons décidé de mélanger le design rétro avec les technologies modernes
 
 - Équipe **TERMINAL**:
   - Bélisle, Émeryk: Programmeur principal (Jeu Unity)
-  - Lu, Ting Yung: Design sonore, montage video, cameraman
+  - Lu, Ting Yung: Design sonore, montage vidéo, cameraman
   - Ranger, Mégane: Design graphique et illustration
   - Saavedra-Torrano, Dana: Design graphique et illustration
   - Daher, Elie: Programmeur réseau (Manette web en WebSocket), design sonore et intégrateur technique
