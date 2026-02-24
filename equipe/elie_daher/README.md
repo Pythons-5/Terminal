@@ -260,7 +260,7 @@ Solution trouvée et testée :
 
 - Tournage pour la bande-annonce du projet
 
-![](montageA.png)
+![](montageA.jpg)
 
 - Préparation du dossier de presse
 
@@ -277,7 +277,7 @@ Solution trouvée et testée :
 
 - Tournage pour la bande-annonce du projet
 
-![](montageB.png)
+![](montageB.jpg)
 
 - Débogage et calibration du projecteur (keystone, alignement physique)
 - Réalignement du projecteur pour optimiser la projection
