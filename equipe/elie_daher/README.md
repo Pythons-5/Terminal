@@ -259,22 +259,40 @@ Solution trouvée et testée :
 ### Mercredi
 
 - Tournage pour la bande-annonce du projet
+
+![](montageA.png)
+
 - Préparation du dossier de presse
+
+![](dossierPresse.png)
+
 - Premier commit : mise en ligne des liens vers tous les projets des étudiants sur le site 2026 Réseau Vivant
+
+![](site2026_debut.png)
+
 - Recherche pour la commande du podium
 - Brainstorm de l'emplacement du podium et les 2 QR Code à mettre
 
 ### Jeudi
 
 - Tournage pour la bande-annonce du projet
+
+![](montageB.png)
+
 - Débogage et calibration du projecteur (keystone, alignement physique)
 - Réalignement du projecteur pour optimiser la projection
 
 ### Vendredi
 
+- Mise en jour du site 2026 avec CSS de baseet footer
+
+![](site2026_cssBase.png)
+
 ## Semaine 6
 
 ### Lundi
+
+- Aucun avancement
 
 ### Mardi
 
