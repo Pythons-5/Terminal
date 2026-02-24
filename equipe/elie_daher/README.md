@@ -284,7 +284,7 @@ Solution trouvée et testée :
 
 ### Vendredi
 
-- Mise en jour du site 2026 avec CSS de baseet footer
+- Mise en jour du site 2026 avec CSS de base et footer
 
 ![](site2026_cssBase.png)
 
