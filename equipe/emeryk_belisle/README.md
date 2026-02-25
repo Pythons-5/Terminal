@@ -285,9 +285,21 @@
 - Rien de rajouté
 
 ### Mardi
+- J'ai construit un meuble pour remplacer le podium, cependant nous avons décider de finalement garder l'autre podium, car le meuble ne fittait pas avec notre design.
+![](podiumMeuble.jpg)
+- Expliquer et parler avec les élèves du jeu et de son futur durant leur sortie pour noter nos projets
+![](visiteEtudiants.jpg)
 
 ### Mercredi
-
+- Changer les manettes et les scripts pour rendre les contrôles à 4 directions, au lieu de 2.
+![](quatreDirectionScript.png)
+- Changement des visuels de certains éléments et changer les effets de la caméra pour rendre le jeu plus console.
+![](visuelsChange.png)
+- Rajout d'un effet de flash rouge, crâne rouge et textes durant les niveaux.
+![](effetsEcran.png)
+- Création du niveau 3 et 4 avec les 6 difficultées (12 niveaux).
+![](niveau3.png)
+![](niveau4.png)
 ### Jeudi
 
 ### Vendredi
