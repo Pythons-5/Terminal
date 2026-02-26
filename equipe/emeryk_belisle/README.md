@@ -297,16 +297,33 @@
 ![](visuelsChange.png)
 - Rajout d'un effet de flash rouge, crâne rouge et textes durant les niveaux.
 ![](effetsEcran.png)
-- Création du niveau 3 et 4 avec les 6 difficultées (12 niveaux).
+- Création du niveau 3 avec les 6 difficultées (6 niveaux).
 ![](niveau3.png)
-![](niveau4.png)
+
 ### Jeudi
+- Création du niveau 4 avec les 6 difficultées (6 niveaux).
+
+![](niveau4.png)
+
+- Changement pour que les opérateurs regarde tout le temps droit.
+
+![](bonhommeRegardeDroit.png)
+
+- Les murs sont maintenant en 3D pour donner de la profondeur au jeu.
+
+![](murs3d.png)
+
+- Quand un opérateur meurt, zoom sur le personnage qui est mort.
+
+![](cameraZoom.png)
 
 ### Vendredi
+- Rien de rajouté
 
 ## Semaine de rattrapge
 
 ### Lundi
+- Rien de rajouté
 
 ### Mardi
 
