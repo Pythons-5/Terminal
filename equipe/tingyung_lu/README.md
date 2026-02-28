@@ -178,14 +178,24 @@
 ## Semaine 6
 
 ### Lundi
+- Changé l'image de l'accueil pour la bande-annonce
 
 ### Mardi
+- Participé à la présentation au studio
 
 ### Mercredi
+- Crée le sprite de l'ennemi
+- Crée le sprite du projectile
+![](./media/ennemi.png)
 
 ### Jeudi
+- Crée le niveau 12 pour 1 joueur
+- Crée le niveau 12 pour 2 joueurs
+- Crée le niveau 12 pour 3 joueurs
+![](./media/capture_niveau12p1.png)
 
 ### Vendredi
+- Pas d'avancement, reporté le travail à lundi
 
 ## Semaine de rattrapge
 
