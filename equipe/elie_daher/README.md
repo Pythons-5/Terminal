@@ -296,11 +296,27 @@ Solution trouvée et testée :
 
 ### Mardi
 
+- Nous avons construit un podium que nous n'avons finalement pas utilisé
+- Préparation pour l'arrivée des étudiants de la classe d'oeuvre pour présenté le projet et répondre à leurs questions
+
 ### Mercredi
+
+- Installation de deux lumières American DJ en "daisy chain"
+- CSS du contrôleur téléphone refait et ajouté deux boutons de plus
+
+![](controlleur4Boutons.png)
+
+![](installationLumiere.jpg)
 
 ### Jeudi
 
+- Création des niveaux 6 à 11 pour un joueur
+
+![](creationNiveauP1.png)
+
 ### Vendredi
+
+- Aucun avancement
 
 ## Semaine de rattrapge
 
