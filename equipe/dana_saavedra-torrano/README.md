@@ -69,16 +69,16 @@
 
 ### Lundi
 
-Finalisation de la planification
+- Finalisation de la planification
 
 ### Mardi
 
 Remise de la planification   
-Conception de l’image (design visuel) du cadenas représentant les zones bloquées à l’aide d’Adobe Illustrator.
+- Conception de l’image (design visuel) du cadenas représentant les zones bloquées à l’aide d’Adobe Illustrator.
 
 ### Mercredi
 
-Conception de l’image (design visuel) des boutons directionnels de la manette,de chaque joueur (6 joueurs au total),des murs et de la porte du jeu à l’aide d’Adobe Illustrator.
+- Conception de l’image (design visuel) des boutons directionnels de la manette,de chaque joueur (6 joueurs au total),des murs et de la porte du jeu à l’aide d’Adobe Illustrator.
 
 ![](documentation_design_version_1.png)
 
@@ -92,18 +92,19 @@ Conception de l’image (design visuel) des boutons directionnels de la manette,
 
 ### Mardi
 
-Conception de l’image (design visuel) des powers ups à l’aide d’Adobe Illustrator.
+- Conception de l’image (design visuel) des powers ups à l’aide d’Adobe Illustrator.
 
 ![](documentation_power_up.png)
 
 ### Mercredi
 
-Installation de la maquette dans le grand studio
+- Installation de la maquette dans le grand studio
 
 ### Jeudi
 
 Remise maquette 1   
-Correction des images (design visuel) par rapport aux commentaires reçus par le professeur. Rajout d'un aspect de profondeur sur tous les visuels.
+- Correction des images (design visuel) par rapport aux commentaires reçus par le professeur.
+- Rajout d'un aspect de profondeur sur tous les visuels.
 
 ![](documentation_design_version_2.png)
 
@@ -114,17 +115,18 @@ Correction des images (design visuel) par rapport aux commentaires reçus par le
 ### Lundi
 
 ### Mardi
-Correction des images (design visuel) par rapport aux commentaires reçus par le professeur. Reconception de l'image des joueurs, de 2 powers ups ( passer à travers les murs et arrêter le temps ), les ennemis et la clé.
+- Correction des images (design visuel) par rapport aux commentaires reçus par le professeur. 
+- Reconception de l'image des joueurs, de 2 power-ups ( passer à travers les murs et arrêter le temps ), les ennemis et la clé.
 
 ![](documentation_design_version_3.png)
 
 ### Mercredi
-Conception de l'image du favicon et changement de couleur sur le site web du rouge au vert.
+- Conception de l'image du favicon et changement de couleur sur le site web du rouge au vert.
 ![](documentation_favicon.png)
 
 
 ### Jeudi
-Conception de l'image (design visuel) du power up qui efface le tracé du joueur, de la zone de ralentissement, de la zone d'accélération et de la zone victoire.
+- Conception de l'image (design visuel) du power-up qui efface le tracé du joueur, de la zone de ralentissement, de la zone d'accélération et de la zone victoire.
 ![](documentation_zones_power_up_trace.png)
 
 
@@ -136,10 +138,13 @@ Conception de l'image (design visuel) du power up qui efface le tracé du joueur
 ### Lundi
 
 ### Mardi
+- Mise à jour du journal de bord en ajoutant les médias du travail fait pour la documentation.
 
 ### Mercredi
+- Recherche en ligne du matériel nécéssaire pour l'installation pour faire la commande.
 
 ### Jeudi
+- Tournage de la bande d'annonce dans le grand studio pour montrer l'expéreince du jeu en général.
 
 ### Vendredi
 
@@ -150,10 +155,20 @@ Conception de l'image (design visuel) du power up qui efface le tracé du joueur
 ### Mardi
 
 Remise bande-annonce vidéo - dossier de presse - maquette 2
+- Installation des poufs gonflables dans le grand studio pour l'arrivée des étudiants TIM de première année.
+- Observation durant la visite des étudiants du déroulement du jeu pour voir les modifications à apporter.
 
 ### Mercredi
 
+- Correction des images (design visuel) par rapport aux commentaires reçus par le professeur.
+- Reconception des images des 3 joueurs et de la zone victoire.
+![](documentation_joueur_version_4_victoire.png)
+
+
 ### Jeudi
+- Changement du favicon sur le site web du projet.
+- Correction des contraste du logo pour le favicon.
+![](documentation_favicon_version_2.png)
 
 ### Vendredi
 
@@ -162,8 +177,13 @@ Remise bande-annonce vidéo - dossier de presse - maquette 2
 ### Lundi
 
 ### Mardi
+- Reconception des images de 3 joueurs par rapport aux commentaires reçus par le professeur.
+![](documentation_joueur_version_5.png)
 
 ### Mercredi
+- Correction de l'image d'un joueur et du power-up fantôme.
+- 
+![](documentation_joueur_fantome.png)
 
 ### Jeudi
 
