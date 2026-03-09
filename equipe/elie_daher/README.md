@@ -318,21 +318,40 @@ Solution trouvée et testée :
 
 - Aucun avancement
 
-## Semaine de rattrapge
+## Semaine de rattrapage
 
 ### Lundi
 
+- Création des niveaux 6 à 11 pour 2 et pour 3 joueurs
+
+![](creationNiveauP2.png)
+![](creationNiveauP3.png)
+
 ### Mardi
+
+- Création des niveaux 6 à 11 pour 4 et pour 5 joueurs
+
+![](creationNiveauP4.png)
+![](creationNiveauP5.png)
 
 ### Mercredi
 
+- Finaliser le site web 2026 (CSS, Responsive, Font)
+  ![](site2026_finalisation.png)
+
 ### Jeudi
 
+- Aucun avancement
+
 ### Vendredi
+
+- Aucun avancement
 
 ## Semaine 7
 
 ### Lundi
+
+- Aucun avancement
 
 ### Mardi
 
