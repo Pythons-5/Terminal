@@ -98,35 +98,35 @@
 
 - Création du Github Terminal-Unity
 - Création du Jeu initial Unity
-![](creationGithub.png)
+  ![](creationGithub.png)
 
 ### Mardi
 
 - Tentatives de faire fonctionner le router avec nos téléphones pour pouvoir accès a notre jeu, sans avoir une connection internet
-![](routeurWeb.png)
+  ![](routeurWeb.png)
 - J'ai trouvé une façon de le faire relativement simple, mais qui fonctionne pas toujours, à trouver comment le rendre fiable
-![](routeur.jpg)
+  ![](routeur.jpg)
 
 ### Mercredi
 
 - Création des premiers dossiers pour bien mettre nos éléments dans le futur
-![](dossiers.png)
+  ![](dossiers.png)
 - Création du script Opérateur (joueur) avec tout les données publiques qui sert à l'utilisation et le futur controle avec les manettes téléphones
 - Dans le même script, les trails sont créer pendant que ceux-ci bouge et deviennent des obstacles
-![](scriptOperateur.png)
+  ![](scriptOperateur.png)
 - Création du préfab de l'opérateur pour qu'on puisse modifier le positionnement des opérateur à notre guise et modifier ses valeurs
-![](prefabOperateur.png)
+  ![](prefabOperateur.png)
 - Commencement du script Game Manager, qui sert pour savoir quand les joueurs finissent le niveau
 
 ### Jeudi
 
 - Finalisation du script Game manager qui permet de faire perdre ou gagner les joueurs dépendant du déroulement du jeu
-![](scriptGameManager.png)
+  ![](scriptGameManager.png)
 - Création du script de Zone de fin, qui sert à savoir quand les joueurs finissent le niveau
 - Création du préfab de la zone de fin, qui nous permet publiquement de changer sa position, grosseur et si il commence verouillé, si il va se vérouiller, et combien de personne qui a besoin avant de changer ses valeurs
-![](prefabZoneVictoire.png)
+  ![](prefabZoneVictoire.png)
 - Création de 3 murs, mur fix, mur qui bouge, et mur qui tourne, le mur qui bouge, permet de choisir sa direction et vitesse, pareil pour lui qui tourne. On peux changer la grosseur et emplacement à notre guise
-![](prefabsMurs.png)
+  ![](prefabsMurs.png)
 
 ### Vendredi
 
@@ -142,13 +142,13 @@
   - Texte du joueur (ex. Joueur 1) en vert lorsqu’il est prêt ou texte en rouge lorsqu’il n’est pas prêt
   - Lorsque tous les joueurs sont prêts: Démarrage d’un countdown + Transition vers la scène Histoire
   - Si un joueur rejoint ou quitte pendant le countdown: Tous les joueurs sont automatiquement remis en non prêt
-  ![](menuPrincipal.png)
-  ![](scriptMenuPrincipal.png)
+    ![](menuPrincipal.png)
+    ![](scriptMenuPrincipal.png)
 
 - Création de la scène Histoire:
   - Texte narratif qui change dynamiquement + Transition automatique vers le niveau 1 dépendant du nombre de joueurs (Level1P2, Level1P5, etc.)
-  ![](histoire.png)
-  ![](scriptHistoire.png)
+    ![](histoire.png)
+    ![](scriptHistoire.png)
 
 - Gestion des niveaux:
   - Si un joueur meurt: Le niveau recommence
@@ -169,81 +169,88 @@
 ### Mercredi
 
 - Création du niveau 1 avec les 6 difficultés
-![](niveaux.png)
-![](niveau1.png)
+  ![](niveaux.png)
+  ![](niveau1.png)
 - Rajout des sons présentement créés et placé au bon endroits dans les scripts
-![](sons.png)
-![](scriptSon.png)
+  ![](sons.png)
+  ![](scriptSon.png)
 - Rajout des éléments visuels créés et placé dans les préfabs et dans les éléments du UI
-![](designPerso.png)
-![](designZoneVictoire.png)
+  ![](designPerso.png)
+  ![](designZoneVictoire.png)
 - Placement de l'ordinateur dans la salle de matrice et connection ethernet vers le grand studio
-![](ordinateur.jpg)
+  ![](ordinateur.jpg)
 
 ### Jeudi
 
 - Placement du podium temporaire avec le router et les éléments artistiques pour la journée des portes ouvertes
-![](podium.jpg)
+  ![](podium.jpg)
 
 - Débugage et correction des textes avant et pendant la visite
 - On a compris asser rapidement que la connection au jeu est présentement trop longue et complexe pour les personnes qui visitent
-![](testJeu.png)
+  ![](testJeu.png)
 
 ### Vendredi
 
 - Changement complet de la connection vers le jeu avec NGrok, qui sert de passage entre un réseau extérieur vers un réseau local, se qui permet aux personnes avec leur LTE/5G de pouvoir jouer au jeu seulement en scannant le code qr et sans se connecter à notre routeur
-![](ngrok.png)
+  ![](ngrok.png)
 - Vérification si les personnes avec LTE et ceux qui doivent quand même se connecter avec le routeur, effectivement, les 2 peuvent intéragit et jouer en même temps
 - Correction du bug trouvé jeudi que quand une personne quitte/rejoint durant le moment de fin du jeu, que cela ne change pas le niveau comme il faut.
 - Rajout de 5 effets sur la caméra (Bloom, vhs, glitch, flash, win effect), qui rend le jeu plus dans le style qu'on désire (vieux jeu rétro sur un écran VHS)
 - Rajout des transitions fade in et fade out entre les scènes et quand les personnes quittes, joins, gagnent, ou perdent.
-![](effets.png)
+  ![](effets.png)
 - Supression de caddy et seulement mis sur le port 8080 au lieu de redirect 8443 vers 8080
 - Acheter ngrok pour 1 mois (éventuellement 2) pour permettre d'augmenter la limite de connections mensuel et enlever la page entre la connection et le jeu
 - Changer le ui du téléphone pour la couleur du joueur que la personne joue et aussi mettre sa forme sur l'écran pour qu'il puisse voir qui il est durant la partie
-![](telephoneConnection.png)
-![](telephoneManette.png)
+  ![](telephoneConnection.png)
+  ![](telephoneManette.png)
 - Garder la flèche de direction durant le jeu au lieu de l'enlever après le countdown initial, se qui permet de mieux savoir comment tourner son personnage.
 
 ## Semaine 4
 
 ### Lundi
+
 - Rien de rajouté
 
 ### Mardi
+
 - Création du background (site web) qui sera éventuellement projeté sur le projecteur background
-![](background.png)
+  ![](background.png)
 - Création du OBS pour projeter le jeu et le background en même temps
-![](obs.png)
+  ![](obs.png)
 - Rajout de l'effet de 0 et 1 qui monte sur le téléphone des joueurs durant les menus
 - Correction des bogues reliés aux téléphones (pas changer de joueur quand 1 quitte par exemple)
 
 ### Mercredi
+
 - Installation et placement du projecteur du jeu pour un projecteur plus haut (pour qu'on puisse pas voir nos tête sur la projection)
 - Modification de la projection OBS pour mettre le background visible sur l'écran pour les effets des 1 et 0
 - Création des niveaux 2 avec 6 difficultés
-![](niveaux2.png)
-![](niveau2.png)
+  ![](niveaux2.png)
+  ![](niveau2.png)
 - Changer les paramètres des 2 projecteurs pour mieux diffuser le background et mieux voir le jeu
 
 ### Jeudi
+
 - Création des portes et des clés (qui ouvre les portes)
 - Création des zones de ralentissement et d'accélération
 - Création des ennemis qui tirs et de son projectile
 - Création des power ups de freeze, invisibilité et suppression de ligne
-![](elementsJeu.png)
+  ![](elementsJeu.png)
 - Changement des sprites pour la majorité des éléments pour ceux-ci permanent
-![](designPrefabs.png)
+  ![](designPrefabs.png)
 - Changement des images pour les personnages sur les téléphones
-![](telephoneConnection.png)
+  ![](telephoneConnection.png)
 - Rajout de tous les sons du jeu (sauf le déplacement des joueurs qui n'ai pas fini)
-![](sons.png)
+  ![](sons.png)
+
 ### Vendredi
+
 - Rien de rajouté
 
 ## Semaine 5
 
 ### Lundi
+
 - Rien de rajouté
 
 ### Mardi
@@ -263,44 +270,48 @@
 ### Mercredi
 
 - Achat des produits Amazon pour le projet
-![](poufsAmazon.png)
+  ![](poufsAmazon.png)
 
-- Continuation de la  prise vidéo pour la bande annonces (Vidéo Des objets sur le jeu qui intéragient avec les joueurs)
+- Continuation de la prise vidéo pour la bande annonces (Vidéo Des objets sur le jeu qui intéragient avec les joueurs)
 
 ### Jeudi
 
 - Prise vidéo pour la bande annonces (Vidéo de la connection des téléphones, écran du jeu pendant qu'ont jouent et nos réactions quand on perd ou gagnent)
-![](videoTournage2.jpg)
+  ![](videoTournage2.jpg)
 
 - Commencement des corrections des bogues de connections dans le jeu
-![](boguesCorrection.png)
-
+  ![](boguesCorrection.png)
 
 ### Vendredi
+
 - Rien de rajouté
 
 ## Semaine 6
 
 ### Lundi
+
 - Rien de rajouté
 
 ### Mardi
+
 - J'ai construit un meuble pour remplacer le podium, cependant nous avons décider de finalement garder l'autre podium, car le meuble ne fittait pas avec notre design.
-![](podiumMeuble.jpg)
+  ![](podiumMeuble.jpg)
 - Expliquer et parler avec les élèves du jeu et de son futur durant leur sortie pour noter nos projets
-![](visiteEtudiants.jpg)
+  ![](visiteEtudiants.jpg)
 
 ### Mercredi
+
 - Changer les manettes et les scripts pour rendre les contrôles à 4 directions, au lieu de 2.
-![](quatreDirectionScript.png)
+  ![](quatreDirectionScript.png)
 - Changement des visuels de certains éléments et changer les effets de la caméra pour rendre le jeu plus console.
-![](visuelsChange.png)
+  ![](visuelsChange.png)
 - Rajout d'un effet de flash rouge, crâne rouge et textes durant les niveaux.
-![](effetsEcran.png)
+  ![](effetsEcran.png)
 - Création du niveau 3 avec les 6 difficultées (6 niveaux).
-![](niveau3.png)
+  ![](niveau3.png)
 
 ### Jeudi
+
 - Création du niveau 4 avec les 6 difficultées (6 niveaux).
 
 ![](niveau4.png)
@@ -318,29 +329,59 @@
 ![](cameraZoom.png)
 
 ### Vendredi
+
 - Rien de rajouté
 
 ## Semaine de rattrapge
 
 ### Lundi
+
 - Rien de rajouté
 
 ### Mardi
 
+- Rien de rajouté
+
 ### Mercredi
+
+- Rien de rajouté
 
 ### Jeudi
 
+- Rien de rajouté
+
 ### Vendredi
+
+- Rien de rajouté
 
 ## Semaine 7
 
 ### Lundi
 
+- Rien de rajouté
+
 ### Mardi
+
+- Changement final des personnages et des zones de ralentissement et accélération
+
+![](changementVisuels.png)
+
+- Test des 15+ niveaux pour chaques difficulté, pour s'assurer des bogues et que les niveaux ne sont pas trop difficiles
+
+![](testNiveaux.png)
 
 ### Mercredi
 
+- Rien de rajouté
+
 ### Jeudi
+
+- Modifications de la page d'exposition, principalement la Procédure d’ouveture quotidienne
+
+![]()
+
+- Correction des scripts pour que les joueurs ne puissent pas mourir après avoir gagné
+
+![](correctionScript.png)
 
 ### Vendredi
