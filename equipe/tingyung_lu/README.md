@@ -200,20 +200,59 @@
 ## Semaine de rattrapge
 
 ### Lundi
+- Crée le niveau 13 pour 3 joueurs
+- Crée le niveau 13 pour 4 joueurs
+- Crée le niveau 13 pour 5 joueurs
+- Crée le niveau 13 pour 6 joueurs
+![](./media/capture_niveau13p6.png)
 
 ### Mardi
+- Crée le niveau 5 pour 1 joueur
+- Crée le niveau 5 pour 2 joueurs
+- Crée le niveau 5 pour 3 joueurs
+- Crée le niveau 5 pour 4 joueurs
+- Crée le niveau 5 pour 5 joueurs
+- Crée le niveau 5 pour 6 joueurs
+![](./media/capture_niveau5p2.png)
+- Crée le niveau 6 pour 6 joueurs
+- Crée le niveau 7 pour 6 joueurs
+- Crée le niveau 8 pour 6 joueurs
+- Crée le niveau 9 pour 6 joueurs
+- Crée le niveau 10 pour 6 joueurs
+- Crée le niveau 11 pour 6 joueurs
+![](./media/capture_niveau11p6.png)
+- Crée le niveau 14 pour 1 joueur
+- Crée le niveau 14 pour 2 joueurs
+- Crée le niveau 14 pour 3 joueurs
+- Crée le niveau 14 pour 4 joueurs
+- Crée le niveau 14 pour 5 joueurs
+- Crée le niveau 14 pour 6 joueurs
+![](./media/capture_niveau14p3.png)
 
 ### Mercredi
+- Pas d'avancement, fait le travail samedi
+- Crée le niveau 12 pour 4 joueurs
+- Crée le niveau 12 pour 5 joueurs
+- Crée le niveau 12 pour 6 joueurs
+![](./media/capture_niveau12p4.png)
 
 ### Jeudi
+- Pas d'avancement, fait le travail dimanche
+- Crée le niveau 13 pour 1 joueur
+- Crée le niveau 13 pour 2 joueurs
+![](./media/capture_niveau13p2.png)
 
 ### Vendredi
+- Pas d'avancement, reporté le travail à mardi
 
 ## Semaine 7
 
 ### Lundi
+- Pas d'avancement, reporté le travail à mardi
 
 ### Mardi
+- Test extensif du jeu (2 à 6 joueurs)
+- Ajusté les niveaux 6, 8, 11 pour 1 joueur
 
 ### Mercredi
 
