@@ -378,7 +378,7 @@
 
 - Modifications de la page d'exposition, principalement la Procédure d’ouveture quotidienne
 
-![]()
+![](procedure.png)
 
 - Correction des scripts pour que les joueurs ne puissent pas mourir après avoir gagné
 

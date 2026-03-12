@@ -29,7 +29,7 @@ Elle a pour objectif de garantir une mise en place cohérente, sécuritaire et f
 
 ![](ChoisirBonneScene.png)
 
-4. S'assurer que « Play Maximized » est sélectionné avant de cliquer sur play, puis après avoir cliqué sur play, mettre le « scale »  à 1.6x
+4. S'assurer que « Play Maximized » est sélectionné avant de cliquer sur play, puis après avoir cliqué sur play, mettre le « scale » à 1.6x
 
 ![](PlayMaximized.png)
 
