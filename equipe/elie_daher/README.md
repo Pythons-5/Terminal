@@ -355,8 +355,26 @@ Solution trouvée et testée :
 
 ### Mardi
 
+- Testé et corrigé plusieurs niveaux du jeu.
+- Réajusté la lentille du projecteur pour réduire le flou sur le mur.
+
 ### Mercredi
+
+- Aucun avancement
 
 ### Jeudi
 
+- Rédigé en entier la **Procédure d’ouverture quotidienne** en prévision de la semaine de présentation.
+
+![](procedure.png)
+
+- Corrigé plusieurs niveaux en les rendant plus faciles à jouer, suite au problème de latence constaté dans le grand studio (C-1712) par rapport aux tests effectués ailleurs.
+
+![](fixNiveaux.png)
+
 ### Vendredi
+
+- Ajouté le plan d’image du grand studio sur le site web 2026.
+- Ajouté plus de descriptions textuelles et ajusté le CSS pour une meilleure présentation.
+
+![](site2026_plan.png)
