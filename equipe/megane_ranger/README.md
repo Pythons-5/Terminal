@@ -82,15 +82,15 @@
 
 - Les modifications de l'interface du jeu sur illustrator est terminé.
 - Les modifications de couleurs, typo et backgound de l'interface menu est complété.
-![](../megane_ranger/documentation_interface_menu_01.png)
-![](../megane_ranger/documentation_interface_jeu_01.png)
+  ![](../megane_ranger/documentation_interface_menu_01.png)
+  ![](../megane_ranger/documentation_interface_jeu_01.png)
 
 ### Mercredi
 
 - Création d'image des ennemis sur illustrator terminé.
 - Création des images visuels des clés sur illustrator terminé.
 - Création des images des projectiles sur illustrator terminé.
-![](../megane_ranger/documentation_ennemi_clef_01.png)
+  ![](../megane_ranger/documentation_ennemi_clef_01.png)
 
 ### Jeudi
 
@@ -111,9 +111,8 @@
 ### Mardi
 
 - Journal de bord mis à jour.
-- Trouver une nouvelle typographie avec des accents, car la typographique que nous avons présentement ne correspond pas à notre esthétique et n'offre pas les accents. 
+- Trouver une nouvelle typographie avec des accents, car la typographique que nous avons présentement ne correspond pas à notre esthétique et n'offre pas les accents.
 - Finalisation du menu principal sur illustrator.
-
 
 ### Mercredi
 
@@ -123,7 +122,7 @@
 
 - Commencer la direction artistique du logo
 - Modification des ennemis et de la clef.
-![](../megane_ranger/documentation_ennemi_clef_02.png)
+  ![](../megane_ranger/documentation_ennemi_clef_02.png)
 
 ### Vendredi
 
@@ -152,7 +151,7 @@
 - Modification et correction du power-up "chronomètre".
 - Modifications des ennemis et de la clef.
 - Brainstorm pour la création visuel du background de l'histoire.
-![](../megane_ranger/documentation_ennemi_clef_03.png)
+  ![](../megane_ranger/documentation_ennemi_clef_03.png)
 
 ### Jeudi
 
@@ -170,15 +169,22 @@
 
 ### Mardi
 
-- Journal de bord mis à jour. 
+- Journal de bord mis à jour.
 - Ajout des médias pour la documentation du projet dans le journal de bord.
 - Finalisation de la création visuel du background de l'histoire.
 
 ### Mercredi
 
+- Achat des matériels.
+
 ### Jeudi
 
+- Tournage de la bande annonce dans le grand studio.
+- Modification du logo et de l'interface principale du jeu sur illustrator.
+
 ### Vendredi
+
+- Congé
 
 ## Semaine 6
 
@@ -186,35 +192,66 @@
 
 ### Lundi
 
+- Congé
+
 ### Mardi
+
+- J'ai apporté le stand et les beans bags.
+- Installations des bean bags.
 
 ### Mercredi
 
+- Reconception de 3 joueurs
+
 ### Jeudi
 
+- Reconception de 2 joueurs
+
 ### Vendredi
+
+- Congé
 
 ## Semaine de rattrapge
 
 ### Lundi
 
+- Congé
+
 ### Mardi
+
+- Congé
 
 ### Mercredi
 
+- J’ai tenté de travailler sur les niveaux, mais il m’était impossible de travailler sur Unity, car mon ordinateur n’avait plus d’espace de stockage disponible, malgré le fait que j’aie fait un grand nettoyage de mes fichiers.
+
 ### Jeudi
 
+- J’ai retenté de libérer de l’espace de stockage sur mon ordinateur, mais sans succès. Après une discussion avec mon équipe, nous avons décidé de retirer des niveaux.
+
 ### Vendredi
+
+- Congé
 
 ## Semaine 7
 
 ### Lundi
 
+- Congé
+
 ### Mardi
+
+- Modification finale de la zone d'accélération.
+- Modification finale de la zone de ralentissement.
 
 ### Mercredi
 
+- Congé / Tempête
+
 ### Jeudi
+
+- Tester pour une dernière fois tous les niveaux.
+- Réparation des beans bags car il y avait .
 
 ### Vendredi
 
@@ -224,10 +261,29 @@
 
 ### Lundi
 
+- J'étais en charge de l'installation du projet pour la présentation au public.
+- Allumer les projecteurs → J’ai rencontré des problèmes : l’ordinateur ne captait pas les projecteurs.
+- Ouvrir le projet Unity.
+- Vérifier les haut-parleurs pour s’assurer que le son fonctionnait bien.
+- Installer les spotlights.
+
 ### Mardi
+
+- J'étais en charge de l'installation du projet pour la présentation au public.
+- Allumer les projecteurs → J’ai rencontré des problèmes : l’ordinateur ne captait pas les projecteurs encore une fois.
+- Ouvrir le projet Unity.
+- Vérifier les haut-parleurs pour s’assurer que le son fonctionnait bien.
+- Installer les spotlights.
+- Journal de bord mis à jour.
 
 ### Mercredi
 
+- Congé
+
 ### Jeudi
 
+- Congé
+
 ### Vendredi
+
+- Désinstaller le projet dans le grand studio.
