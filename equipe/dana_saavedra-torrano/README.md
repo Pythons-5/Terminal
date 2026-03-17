@@ -83,12 +83,15 @@ Remise de la planification
 ![](documentation_design_version_1.png)
 
 ### Jeudi
+Auucn avancement
 
 ### Vendredi
+Auucn avancement
 
 ## Semaine 3
 
 ### Lundi
+Auucn avancement
 
 ### Mardi
 
@@ -103,19 +106,21 @@ Remise de la planification
 ### Jeudi
 
 Remise maquette 1   
-- Correction des images (design visuel) par rapport aux commentaires reçus par le professeur.
+- Correction des images (design visuel) par rapport aux commentaires reçus du professeur.
 - Rajout d'un aspect de profondeur sur tous les visuels.
 
 ![](documentation_design_version_2.png)
 
 ### Vendredi
+Auucn avancement
 
 ## Semaine 4
 
 ### Lundi
+Auucn avancement
 
 ### Mardi
-- Correction des images (design visuel) par rapport aux commentaires reçus par le professeur. 
+- Correction des images (design visuel) par rapport aux commentaires reçus par du professeur.
 - Reconception de l'image des joueurs, de 2 power-ups ( passer à travers les murs et arrêter le temps ), les ennemis et la clé.
 
 ![](documentation_design_version_3.png)
@@ -132,35 +137,39 @@ Remise maquette 1
 
 
 ### Vendredi
+Auucn avancement
 
 ## Semaine 5
 
 ### Lundi
+Auucn avancement
 
 ### Mardi
 - Mise à jour du journal de bord en ajoutant les médias du travail fait pour la documentation.
 
 ### Mercredi
-- Recherche en ligne du matériel nécéssaire pour l'installation pour faire la commande.
+- Recherche en ligne du matériel nécéssaire pour l'installation afin de faire la commande.
 
 ### Jeudi
-- Tournage de la bande d'annonce dans le grand studio pour montrer l'expéreince du jeu en général.
+- Tournage de la bande-annonce dans le grand studio pour montrer l'expérience du jeu en général.
 
 ### Vendredi
+Auucn avancement
 
 ## Semaine 6
 
 ### Lundi
+Auucn avancement
 
 ### Mardi
 
 Remise bande-annonce vidéo - dossier de presse - maquette 2
 - Installation des poufs gonflables dans le grand studio pour l'arrivée des étudiants TIM de première année.
-- Observation durant la visite des étudiants du déroulement du jeu pour voir les modifications à apporter.
+- Observation, durant la visite des étudiants, du déroulement du jeu afin de voir les modifications à apporter.
 
 ### Mercredi
 
-- Correction des images (design visuel) par rapport aux commentaires reçus par le professeur.
+- Correction des images (design visuel) par rapport aux commentaires reçus du professeur.
 - Reconception des images des 3 joueurs et de la zone victoire.
 ![](documentation_joueur_version_4_victoire.png)
 
@@ -171,32 +180,43 @@ Remise bande-annonce vidéo - dossier de presse - maquette 2
 ![](documentation_favicon_version_2.png)
 
 ### Vendredi
+Auucn avancement
 
 ## Semaine de rattrapge
 
 ### Lundi
+Auucn avancement
 
 ### Mardi
-- Reconception des images de 3 joueurs par rapport aux commentaires reçus par le professeur.
+- Reconception des images de 3 joueurs par rapport aux commentaires reçus du professeur.
 ![](documentation_joueur_version_5.png)
 
 ### Mercredi
 - Correction de l'image d'un joueur et du power-up fantôme.
-- 
 ![](documentation_joueur_fantome.png)
 
 ### Jeudi
+- Création des niveaux 15 et 16 (1 à 6 joueurs).
 
 ### Vendredi
+Auucn avancement
 
 ## Semaine 7
 
 ### Lundi
+- Création du niveaux 17 (1 à 6 joueurs).
 
 ### Mardi
+- Correction de la taille de certaines images des joueurs et correction de l'image d'un joueur.
+- Test de niveaux de 3 à 6 joueurs.
+![](documentation_joueur_version_6.png)
 
 ### Mercredi
+Aucun avancement
 
 ### Jeudi
+- Finalisation des tests des niveaux de 2 à 6 joueurs.
+- Réparation des poufs brisés.
 
 ### Vendredi
+Auucn avancement
