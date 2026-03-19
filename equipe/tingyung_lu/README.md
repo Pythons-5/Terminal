@@ -255,7 +255,29 @@
 - Ajusté les niveaux 6, 8, 11 pour 1 joueur
 
 ### Mercredi
+- Pas avancement
 
 ### Jeudi
+- Pas avancement
 
 ### Vendredi
+- Pas avancement
+
+## Semaine 8
+
+### Lundi
+- Pas avancement
+
+### Mardi
+- Participé au vernissage et redémarré l'installation lors de problèmes
+
+### Mercredi
+- Surveillé l'installation et la redemarrer lors de problèmes pendant la journée 
+- Commencé le montage de la documentation vidéo
+
+### Jeudi
+- Terminé le montage de la documentation vidéo
+- Ajouté la documentation vidéo finale dans le site web
+
+### Vendredi
+- Démontage de l'installation
