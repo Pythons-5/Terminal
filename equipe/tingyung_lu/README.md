@@ -270,14 +270,17 @@
 
 ### Mardi
 - Participé au vernissage et redémarré l'installation lors de problèmes
+![](./media/vernissage.jpg)
 
 ### Mercredi
 - Surveillé l'installation et la redemarrer lors de problèmes pendant la journée 
 - Commencé le montage de la documentation vidéo
+![](./media/exposition.jpg)
 
 ### Jeudi
 - Terminé le montage de la documentation vidéo
 - Ajouté la documentation vidéo finale dans le site web
+![](./media/capture_davinci_3.png)
 
 ### Vendredi
 - Démontage de l'installation
