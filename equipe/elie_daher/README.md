@@ -378,3 +378,26 @@ Solution trouvée et testée :
 - Ajouté plus de descriptions textuelles et ajusté le CSS pour une meilleure présentation.
 
 ![](site2026_plan.png)
+
+## Semaine 8
+
+### Lundi
+
+- Congé
+
+### Mardi
+
+- Vernissage
+
+### Mercredi
+
+- Journée complète pour superviser le projet durant la présentation
+- Simplification de tous les niveaux pour les rendre plus facile
+
+### Jeudi
+
+- Congé
+
+### Vendredi
+
+- Journée complète pour désinstaller l'ensemble du projet
