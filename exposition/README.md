@@ -87,14 +87,4 @@ Chaque composante de l’installation est détaillée ci-dessous avec :
 
 ## Documentation vidéo finale
 
-<!-- Intégration d’une vidéo : méthode 1 (vidéo hébergée sur YouTube, pouvant être non répertoriée publiquement)
--->
-<!--
-[![Description de la vidéo](http://img.youtube.com/vi/ABWCq8j8qys/0.jpg)](http://www.youtube.com/watch?v=ABWCq8j8qys)
--->
-
-<!-- Intégration d’une vidéo : méthode 2 (vidéo locale)
- -->
-<!--
- ![Description de la vidéo](/media/ipsum_020.mp4)
--->
+[![Documentation-vidéo-finale](http://img.youtube.com/vi/gcOpWt6-wfo/0.jpg)](https://www.youtube.com/watch?v=gcOpWt6-wfo)
