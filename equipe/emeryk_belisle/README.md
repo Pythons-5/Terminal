@@ -385,3 +385,29 @@
 ![](correctionScript.png)
 
 ### Vendredi
+
+- Rien de rajouté
+
+## Semaine 8
+
+### Lundi
+
+- Rien de rajouté
+
+### Mardi
+
+- Rien de rajouté
+
+### Mercredi
+
+- Rien de rajouté
+
+### Jeudi
+
+- Journée complète de présentation du projet, j'étais là pour régler les problèmes et surveiller l'installation
+- Correction rapide, il manquait un build sur le niveau 8 à 2 joueurs
+
+### Vendredi
+
+- Visionnage de la documentation final pour toutes les équipes
+- Démontage de l'installation
