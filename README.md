@@ -3,6 +3,8 @@
 <!-- Bannderole / Bande-annonce -->
 
 [![Bande-annonce](logo_terminal.png)](http://www.youtube.com/watch?v=hST8hjQISow)
+<br/>
+[![Documentation-vidéo-finale](banniere_terminal.png)](https://www.youtube.com/watch?v=KaqF9mpDnNw)
 
 ## Description
 

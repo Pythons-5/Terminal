@@ -87,4 +87,4 @@ Chaque composante de l’installation est détaillée ci-dessous avec :
 
 ## Documentation vidéo finale
 
-[![Documentation-vidéo-finale](http://img.youtube.com/vi/gcOpWt6-wfo/0.jpg)](https://www.youtube.com/watch?v=gcOpWt6-wfo)
+[![Documentation-vidéo-finale](http://img.youtube.com/vi/gcOpWt6-wfo/0.jpg)](https://www.youtube.com/watch?v=KaqF9mpDnNw)
